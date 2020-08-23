@@ -2,5 +2,5 @@
 using namespace std;
 int main(int agrv, char** argc)
 {
-	cout << "Hau Hung Hai Phuc";
+	cout << "Hello World";
 }
